@@ -17,9 +17,9 @@
 
 ----
 
-PekoraStrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
+PekoraStrap is a third-party replacement for the standard Pekora bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/PekoraStraplabs/PekoraStrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/PekoraStraplabs/PekoraStrap/issues).
+Running into a problem or need help with something? [Check out the Wiki](https://github.com/PekoraStraplabs/PekoraStrap/wiki). If you can't find anything, let us know through our discord [TBC](https://pekora.zip)
 
 PekoraStrap is only supported for PCs running Windows.
 
@@ -27,11 +27,11 @@ PekoraStrap is only supported for PCs running Windows.
 
 **Q: Is this malware?**
 
-**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository and [PekoraStraplabs.com](https://PekoraStraplabs.com).
+**A:** No. The source code here is viewable to all, and it'd be impossible for us to slip anything malicious into the downloads without anyone noticing. Just be sure you're downloading it from an official source. The only two official sources are this GitHub repository.
 
 **Q: Can using this get me banned?**
 
-**A:** No, it shouldn't. PekoraStrap doesn't interact with the Roblox client in the same way that exploits do. [Read more about that here.](https://github.com/PekoraStraplabs/PekoraStrap/wiki/Why-it's-not-reasonably-possible-for-you-to-be-banned-by-PekoraStrap)
+**A:** No, it shouldn't. PekoraStrap doesn't interact with the Pekora client in the same way that exploits do. [Read more about that here.]
 
 ## Features
 
@@ -41,41 +41,7 @@ PekoraStrap is only supported for PCs running Windows.
 - Ability to configure graphics fidelity and UI experience
 
 ## Installing
-Download the [latest release of PekoraStrap](https://github.com/PekoraStraplabs/PekoraStrap/releases/latest), and run it. Configure your preferences if needed, and install. That's about it!
-
-Alternatively, you can install PekoraStrap via [Winget](https://winstall.app/apps/pizzaboxer.PekoraStrap) by running this in a Command Prompt window:
-```
-> winget install PekoraStrap
-```
-
-You will also need the [.NET 6 Desktop Runtime](https://aka.ms/dotnet-core-applaunch?missing_runtime=true&arch=x64&rid=win11-x64&apphost_version=6.0.16&gui=true). If you don't already have it installed, you'll be prompted to install it anyway. Be sure to install PekoraStrap after you've installed this.
-
-It's not unlikely that Windows Smartscreen will show a popup when you run PekoraStrap for the first time. This happens because it's an unknown program, not because it's actually detected as being malicious. To dismiss it, just click on "More info" and then "Run anyway".
-
-Once installed, PekoraStrap is added to your Start Menu, where you can access the menu and reconfigure your preferences if needed.
-
-## Code
-
-PekoraStrap uses the [WPF UI](https://github.com/lepoco/wpfui) library for the user interface design. We currently use and maintain our own fork of WPF UI at [PekoraStraplabs/wpfui](https://github.com/PekoraStraplabs/wpfui).
-
-
-[shield-repo-license]:  https://img.shields.io/github/license/PekoraStraplabs/PekoraStrap
-[shield-repo-workflow]: https://img.shields.io/github/actions/workflow/status/PekoraStraplabs/PekoraStrap/ci-release.yml?branch=main&label=builds
-[shield-repo-releases]: https://img.shields.io/github/downloads/PekoraStraplabs/PekoraStrap/latest/total?color=981bfe
-[shield-repo-latest]:   https://img.shields.io/github/v/release/PekoraStraplabs/PekoraStrap?color=7a39fb
-
-[shield-crowdin-status]: https://badges.crowdin.net/PekoraStrap/localized.svg
-[shield-discord-server]: https://img.shields.io/discord/1099468797410283540?logo=discord&logoColor=white&label=discord&color=4d3dff
-[shield-tenor-meme]:     https://img.shields.io/badge/mom_made-pizza_rolls-orange
-
-[repo-license]:  https://github.com/PekoraStraplabs/PekoraStrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/PekoraStraplabs/PekoraStrap/actions
-[repo-releases]: https://github.com/PekoraStraplabs/PekoraStrap/releases
-[repo-latest]:   https://github.com/PekoraStraplabs/PekoraStrap/releases/latest
-
-[crowdin-project]: https://crowdin.com/project/PekoraStrap
-[discord-invite]:  https://discord.gg/nKjV3mGq6R
-[tenor-gif]:       https://media.tenor.com/FIkSGbGycmAAAAAd/manly-roblox.gif
+Download the [latest release of PekoraStrap](https://github.com/fusionnetwork-dev/PekoraStrap/releases/latest), and run it. Configure your preferences if needed.
 
 ## Code signing policy
 
