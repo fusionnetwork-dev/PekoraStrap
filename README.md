@@ -19,7 +19,7 @@
 
 PekoraStrap is a third-party replacement for the standard Pekora bootstrapper, providing additional useful features and improvements.
 
-Running into a problem or need help with something? [Check out the Wiki](https://github.com/PekoraStraplabs/PekoraStrap/wiki). If you can't find anything, let us know through our discord [TBC](https://pekora.zip)
+Running into a problem or need help with something? Can't find anything? Let us know through our Discord [TBC](https://pekora.zip)
 
 PekoraStrap is only supported for PCs running Windows.
 
